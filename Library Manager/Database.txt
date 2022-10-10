@@ -1,0 +1,35 @@
+ID|Genre|Title|Author|Purchase Date|Member ID
+1|Sci-Fi|1984|George Orwell|2014-09-02|xzpx
+2|Sci-Fi|The Martian|Andy Weir|2014-09-02|xlko
+3|Action|Life Of Pi|Yann Martel|2014-09-07|0
+4|Action|Life Of Pi|Yann Martel|2014-09-02|0
+5|Horror|Night Things|Michael Talbot|2014-09-05|0
+6|Horror|Carrie|Stephen King|2014-09-05|xlsf
+7|Mystery|The Night Fire|Michael Connelly|2014-09-05|xzap
+8|Mystery|The Night Fire|Michael Connelly|2014-09-05|0
+9|Fantasy|Circe|Madeline Miller|2014-09-08|0
+10|Sci-Fi|Neuromancer|William Gibson|2014-09-14|0
+11|Fantasy|Circe|Madeline Miller|2014-09-19|xzyc
+12|Sci-Fi|The Hunger Games Trilogy|Suzanne Collins|2014-09-27|0
+13|Sci-Fi|The Hunger Games Trilogy|Suzanne Collins|2014-09-27|0
+14|Non-Fiction|A Brief History Of Time|Stephen Hawkins|2014-09-30|xlrq
+15|Mystery|The Night Fire|Michael Connelly|2014-09-30|0
+16|Mystery|Gone Girl|Gillian Flynn|2014-10-01|0
+17|Fantasy|Ninth House|Leigh Bardugo|2014-10-01|0
+18|Horror|The Haunting of Hill House|Shirley Jackson|2014-10-03|0
+19|Horror|Ring|Koji Suzuki|2014-10-03|0
+20|Horror|Ring|Koji Suzuki|2014-10-03|0
+21|Sci-Fi|A Scanner Darkly|Philip K Dick|2014-10-07|xlma
+22|Non-Fiction|The God Delusion|Richard Dawkins|2014-10-08|0
+23|Non-Fiction|The God Delusion|Richard Dawkins|2014-10-08|0
+24|Non-Fiction|A Brief History Of Time|Stephen Hawkins|2014-10-10|0
+25|Non-Fiction|Columbine|Dave Cullen|2014-10-12|0
+26|Fantasy|Dune|Frank Herbert|2014-10-13|0
+27|Fantasy|Dune|Frank Herbert|2014-10-13|xlma
+28|Fantasy|Hyperion|Dan Simmons|2014-10-16|0
+29|Mystery|The Guest List|Lucy Foley|2014-10-16|0
+30|Sci-Fi|Jurassic Park|Michael Crichton|2014-10-18|xzap
+31|Sci-Fi|Foundation|Isaac Asimov|2014-10-19|0
+32|Action|The Bourne Identity|Robert Ludlum|2014-10-19|xzyc
+33|Action|Divergent|Veronica Roth|2014-10-22|0
+34|Action|Divergent|Veronica Roth|2014-10-22|0
